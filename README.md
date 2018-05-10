@@ -3,7 +3,7 @@
 
 ### How to use
 ```py
-rm_s3_re profile folder_name
+python rm_s3_re.py profile folder_name
 ```
 
 `profile` is your AWS profile with permission to remove files and folders  
